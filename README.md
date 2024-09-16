@@ -40,15 +40,15 @@ Home Page:
   - Tracks savings over specific timeframes, supporting the experience goal of financial safety.
 
 **Through this project, we learned how to:**
-    - Determine and set experience goals.
-    - Generate design implications from these goals.
-    - Design and prototype an application.
-    - Evaluate the prototype with end-users to ensure the goals are effectively manifested.
+  - Determine and set experience goals.
+  - Generate design implications from these goals.
+  - Design and prototype an application.
+  - Evaluate the prototype with end-users to ensure the goals are effectively manifested.
 
 **I took charge of the following chapters in the project report:**
-    Chapter 2: Related Work and its subchapters
-    Chapter 4: Design Explained and Subchapter 4.1
-    Chapter 6: Discussions and all subchapters
+  - hapter 2: Related Work and its subchapters
+  - Chapter 4: Design Explained and Subchapter 4.1
+  - Chapter 6: Discussions and all subchapters
 
 When designing the prototype, I worked on the Home page and when planning the prototype evaluation process, I took the lead in formulating questions for the question-completion form.
 
