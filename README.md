@@ -46,7 +46,7 @@ Home Page:
   - Evaluate the prototype with end-users to ensure the goals are effectively manifested.
 
 **I took charge of the following chapters in the project report:**
-  - hapter 2: Related Work and its subchapters
+  - Chapter 2: Related Work and its Subchapters
   - Chapter 4: Design Explained and Subchapter 4.1
   - Chapter 6: Discussions and all subchapters
 
