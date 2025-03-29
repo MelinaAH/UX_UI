@@ -1,4 +1,4 @@
-# UX PROJECTS
+# UX/UI PROJECTS
 
 ## CROSS-CULTURAL DESIGN: Social media culture – Pakistan vs. Finland
 In this project, we explored the social media culture in comparison between Pakistan and Finland. The goal of the project was to investigate the impact of cultural differences on social media usage. There can be significant differences between collectivistic countries, like Pakistan, and individualistic ones, such as Finland. Therefore, we aimed to investigate if and how cultural norms impact social media behaviour, including potential restrictions on user content. Based on the study results, we designed improvements and new features for Instagram to better meet user needs and created low-fidelity prototypes. 
@@ -6,7 +6,7 @@ In this project, we explored the social media culture in comparison between Paki
 I was responsible for the prototypes and the report chapters: 2.2 Literature review, 2.4 Study with the cultural probes, 3.4 Concept design and low-fidelity prototype, and 5.2 Reflection on multi-cultural teamwork.
 
 ## HUMAN-CENTERED PRODUCT DEVELOPMENT: TimeWise – an AI calendar assistant
-The assignment for the project was to envision a future solution for an existing user problem, need, desire, or challenge, or to identify a completely new opportunity. This problem, challenge, need, or desire was to be found through user studies. The target market timeframe is 2030-2035, providing a unique opportunity to create a forward-looking solution.
+The assignment for the project was to envision a future solution for an existing user problem, need, desire, or challenge or to identify a completely new opportunity. This problem, challenge, need, or desire was to be found through user studies. The target market timeframe is 2030-2035, providing a unique opportunity to create a forward-looking solution.
 
 The specific task was to design an AI-based solution for planning one’s weekly schedule, including commuting to work or school, grocery shopping, and other necessary weekly activities.
 
@@ -17,7 +17,7 @@ The primary goals and objectives of the TimeWise AI-powered calendar assistant p
 The goal of this project was to apply the Experience-Driven Design (EDD) approach to design and evaluate a prototype that combines physical and digital elements or is purely digital. We focused on determining experience goals (UX goals), generating design implications based on these goals, designing a prototype, and evaluating its effectiveness with end-users.
 
 ### Project Topic: Sustainable Living in the Kitchen
-We conducted interview and survey-based user research to understand potential user attitudes toward sustainable living, as well as their needs and pain points when adapting to sustainable practices. This informed our design decisions in the later phases of the project.
+We conducted interviews and survey-based user research to understand potential user attitudes toward sustainable living, as well as their needs and pain points when adapting to sustainable practices. This informed our design decisions in the later phases of the project.
 
 ### Prototype Description:
 We designed an application aimed at helping users avoid food waste. The main features of the application include:
