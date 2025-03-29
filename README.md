@@ -110,7 +110,7 @@ This project demonstrates the importance of user-centered research in developing
 
 ## USABILITY EVALUATION METHODS: Usability Evaluation of Open University Website
 ### Project Description
-What was done: During the Usability Evaluation Methods course at Tampere University, our 5-person team conducted a comprehensive usability evaluation of the Open University website, specifically focusing on the student application process.
+**What was done:** During the Usability Evaluation Methods course at Tampere University, our 5-person team conducted a comprehensive usability evaluation of the Open University website, specifically focusing on the student application process.
 
 **Why:** The project aimed to identify and address usability issues in the application process for the Open University, enhancing the user experience and making the process more efficient and user-friendly.
 
