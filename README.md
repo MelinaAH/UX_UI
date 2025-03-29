@@ -53,12 +53,60 @@ Home Page:
 When designing the prototype, I worked on the Home page and when planning the prototype evaluation process, I took the lead in formulating questions for the question-completion form.
 
 ## METHODS IN HUMAN-CENTERED DESIGN: Research Study of DeMo
-Our team of five members worked on the Research Study of the DeMo project as part of the course Methods in Human-Centered Design, focusing on exploring strategies and tools to promote the shift from car usage to sustainable alternatives, such as public transport and active mobility. We embarked on a full human-centred design process to achieve our goals:
+### Project Description
+**What was done:** As part of the Methods in Human-Centered Design course, our 5-member team conducted a research study on DeMo (Decarbonizing Transport and Mobility through Data-Driven Modal Shift). The project aimed to explore strategies and tools to encourage individuals to shift from car usage to more sustainable transportation options, such as public transport or active mobility.
 
-- Conducted extensive user research using semi-structured face-to-face interviews and surveys.
-- Analyzed the data using affinity diagrams and thematic analysis to understand user preferences and behaviours regarding transportation modes.
-- Designed and prototyped the Multi-Transport-Pass System, aiming to integrate various transport modes into a cohesive service concept.
-- Validated the concept through prototype usability testing, iteratively refining the prototype based on user feedback.
+**Why:** The project aimed to explore strategies and tools to encourage individuals to transition from car usage to sustainable alternatives, such as public transport or active mobility. This is crucial for achieving global and national carbon emission reduction goals and promoting urban sustainability. The project, named Decarbonizing Transport and Mobility through Data-driven Modal Shift (DeMo), is research-oriented and involves collaboration with partners Tampere University and VTT. This collaboration stands at the forefront of urban sustainability, focusing on cities like Tampere and Helsinki, where despite commendable efforts, the car remains the predominant mode of transport.
+
+**How:**
+**User Research:** Conducted semi-structured face-to-face interviews and surveys in both Finnish and English to understand user preferences. The target group included individuals who primarily use cars but consider public transport a viable alternative.
+**Interviews:** Recorded interviews and created transcripts.
+**Analysis:** Analyzed data using affinity diagrams and thematic analysis to create user personas and user stories.
+**User Personas and stories:** User personas and stories were developed based on the research findings.
+**Initial Concept Ideation:** Developed an initial concept idea based on user research insights and conducted preliminary validation by asking people about its feasibility.
+**Competitor analysis:**  Conducted a competitor analysis to understand the strengths and weaknesses of existing solutions in the market.
+**Concept Development:** Formed a concept idea based on insights gained from user research.
+**Concept Validation via Surveys:** Evaluated the refined concept idea with participants to determine its viability before proceeding to prototyping.
+**Prototyping:** Created low-fidelity prototypes and evaluated them with users.
+**Iteration:** Improved prototypes based on user feedback.
+
+**My Role:**
+In the planning phase, I collaborated with the team to design interview questions. I conducted two interviews with car users, recorded the interviews, and created transcripts. For the concept design, I worked closely with another team member. Based on our research findings, I developed user personas. I was primarily responsible for creating the prototype. Additionally, I conducted a usability test on the prototype and iterated it based on user feedback.
+
+### Target  group
+Our target group included individuals who primarily use cars but do not have a negative attitude toward public transport and consider it a viable alternative.
+
+### Key Challenges
+One of the key challenges identified in the user study was that many desired improvements, such as increased frequency of public transportation, expanded route networks, and heated bus shelters, are difficult to implement cost-effectively. 
+
+### Solution: Unified Travel Pass
+Based on user research, we developed the concept of the Unified Travel Pass – a mobile application that provides users with a streamlined way to plan and pay for public transportation across Finland. The app offers:
+
+- real-time route planning
+- tracking
+- bonus rewards for using public transit
+- 
+These features make public transport a more attractive option for commuters.
+
+#### Full Description of Features
+Our app aims to make travelling easier, sustainable, and environmentally friendly throughout Finland. Users can use it to pay for short or long distance trips on various modes of transport, such as buses, trams, trains, scooters, bicycles, and more. Users can get a digital card and/or a physical card with NFC functionality if they wish. Loading both travel cards is easy and can be done using various payment methods such as via card, MobilePay, bank, NFC, and more.
+
+In the app, users can plan routes from their chosen starting point to their desired destination, selecting either departure or arrival time. By default, the app automatically sets today's date and the current time as the departure time options. Once a day and time are chosen, the app displays available transportation options with schedules closest to the selected departure time. In addition to public transportation, the app always prioritises the most environmentally friendly options at the top, such as bicycles or electric scooters. Car-sharing or renting options are also available but are presented last, as they are not the most environmentally friendly.
+
+Users are presented with comprehensive information about their journey, including when to begin walking to the stop/station, departure times of vehicles, transfer schedules (such as switching from bus to tram), total travel time from start to finish, the cost of the journey based on the user's passenger status type (child, student, conscript, adult, pensioner, unemployed, and disabled), and the CO2 emissions associated with the journey. Despite prioritising speed and convenience over sustainability, users are equipped with data on the carbon footprint of each choice, promoting environmentally conscious decisions.
+
+After users select their preferred option, they are shown the chosen route on a map, where they can also track the real-time movement of vehicles. The map also displays the walking route and time to the stop, as well as the estimated arrival time of the vehicle.
+
+If the Unified Travel Pass does not have sufficient balance, users can either top up the card within the app or alternatively purchase a single ticket. Users always need to buy a seat ticket for the train, which they can do directly from the app. The app also notifies users if the Unified Travel Pass has enough balance to cover the bus, tram, or metro fare and encourages them to continue with the train ticket purchase.
+
+Users can add passengers and automatically switch between offered seat options. Unused and used tickets purchased within the app can be found conveniently on the Tickets page, where users can present them to the conductor for inspection and later reference.
+
+Users can earn bonuses for each use of public transportation. The user's bonus level increases based on their usage of public transportation. The more they use, the more they benefit. Users can convert bonuses into money for the Unified Travel Pass and use them to pay for journeys made on public transportation. Therefore, the payment is always determined based on the user's passenger status type.
+
+### Documentation
+The entire project is documented in a detailed project report, highlighting our findings, design process, and the final concept.
+
+This project demonstrates the importance of user-centered research in developing practical and sustainable solutions for transportation challenges and showcases the potential of data-driven approaches in promoting modal shifts towards more eco-friendly mobility options.
 
 ## USABILITY EVALUATION METHODS: Usability Evaluation of Open University Website
 ### Project Description
