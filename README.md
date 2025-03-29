@@ -59,16 +59,16 @@ When designing the prototype, I worked on the Home page and when planning the pr
 **Why:** The project aimed to explore strategies and tools to encourage individuals to transition from car usage to sustainable alternatives, such as public transport or active mobility. This is crucial for achieving global and national carbon emission reduction goals and promoting urban sustainability. The project, named Decarbonizing Transport and Mobility through Data-driven Modal Shift (DeMo), is research-oriented and involves collaboration with partners Tampere University and VTT. This collaboration stands at the forefront of urban sustainability, focusing on cities like Tampere and Helsinki, where despite commendable efforts, the car remains the predominant mode of transport.
 
 **How:**
-**User Research:** Conducted semi-structured face-to-face interviews and surveys in both Finnish and English to understand user preferences. The target group included individuals who primarily use cars but consider public transport a viable alternative.
-**Interviews:** Recorded interviews and created transcripts.
-**Analysis:** Analyzed data using affinity diagrams and thematic analysis to create user personas and user stories.
-**User Personas and stories:** User personas and stories were developed based on the research findings.
-**Initial Concept Ideation:** Developed an initial concept idea based on user research insights and conducted preliminary validation by asking people about its feasibility.
-**Competitor analysis:**  Conducted a competitor analysis to understand the strengths and weaknesses of existing solutions in the market.
-**Concept Development:** Formed a concept idea based on insights gained from user research.
-**Concept Validation via Surveys:** Evaluated the refined concept idea with participants to determine its viability before proceeding to prototyping.
-**Prototyping:** Created low-fidelity prototypes and evaluated them with users.
-**Iteration:** Improved prototypes based on user feedback.
+- **User Research:** Conducted semi-structured face-to-face interviews and surveys in both Finnish and English to understand user preferences. The target group included individuals who primarily use cars but consider public transport a viable alternative.
+- **Interviews:** Recorded interviews and created transcripts.
+- **Analysis:** Analyzed data using affinity diagrams and thematic analysis to create user personas and user stories.
+- **User Personas and stories:** User personas and stories were developed based on the research findings.
+- **Initial Concept Ideation:** Developed an initial concept idea based on user research insights and conducted preliminary validation by asking people about its feasibility.
+- **Competitor analysis:**  Conducted a competitor analysis to understand the strengths and weaknesses of existing solutions in the market.
+- **Concept Development:** Formed a concept idea based on insights gained from user research.
+- **Concept Validation via Surveys:** Evaluated the refined concept idea with participants to determine its viability before proceeding to prototyping.
+- **Prototyping:** Created low-fidelity prototypes and evaluated them with users.
+- **Iteration:** Improved prototypes based on user feedback.
 
 **My Role:**
 In the planning phase, I collaborated with the team to design interview questions. I conducted two interviews with car users, recorded the interviews, and created transcripts. For the concept design, I worked closely with another team member. Based on our research findings, I developed user personas. I was primarily responsible for creating the prototype. Additionally, I conducted a usability test on the prototype and iterated it based on user feedback.
@@ -85,7 +85,7 @@ Based on user research, we developed the concept of the Unified Travel Pass – 
 - real-time route planning
 - tracking
 - bonus rewards for using public transit
-- 
+
 These features make public transport a more attractive option for commuters.
 
 #### Full Description of Features
