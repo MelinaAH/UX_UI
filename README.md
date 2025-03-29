@@ -75,25 +75,18 @@ What was done: During the Usability Evaluation Methods course at Tampere Univers
 #### Heuristic Evaluation
 Our project began with a heuristic evaluation of the service pathway for applying to the Open University. We identified usability issues and classified them based on severity, using a scale from 1 to 4:
 
-**1. Critical Issue**:
-Prevents the service from being used as intended.
-**2. Major Usability Issue:**
-Significantly impairs the user experience.
-**3. Minor Usability Issue:**
-Slightly impedes the service's usability.
-**4. Cosmetic Issue:**
-Affects the visual polish without impacting functionality.
+  **1. Critical Issue**: Prevents the service from being used as intended.
+  **2. Major Usability Issue:** Significantly impairs the user experience.
+  **3. Minor Usability Issue:** Slightly impedes the service's usability.
+  **4. Cosmetic Issue:** Affects the visual polish without impacting functionality.
 
 In addition to usability issues, we also noted general comments, denoted by "C" for comments on successful features or suggestions and "T" for technical issues related to implementation errors. The findings from the heuristic evaluation were compiled into a separate report.
 
 #### Usability Testing and Test Report
 Following the heuristic evaluation, we conducted usability testing on the website, particularly focusing on the application process. The usability testing involved several key components:
 
-**- Test Arrangements:**
-Setting up the testing environment, recruiting participants, and preparing test tasks. Before the actual tests, a pilot test was conducted to ensure the success of the usability test and the suitability of the test tasks. The pilot test results were also used to compile the final results.
-**- Test Execution:**
-Testing was conducted remotely via Zoom, with a moderator guiding the participant and two observers noting task completion times, user behaviour, and body language. Each test session was allocated one hour, with half an hour dedicated to test tasks.
-**- Test Tasks:**
-Participants were asked to search for courses, locate the application form, and complete the application process. Additionally, we assessed how easily users could find important information on the website. During the usability test, participants performed assigned tasks while thinking aloud. This helped reveal their thoughts during task execution. Participant backgrounds, satisfaction with the service, and user experience were assessed through interviews and questionnaires.
+  **- Test Arrangements:** Setting up the testing environment, recruiting participants, and preparing test tasks. Before the actual tests, a pilot test was conducted to ensure the success of the usability test and the suitability of the test tasks. The pilot test results were also used to compile the final results.
+  **- Test Execution:** Testing was conducted remotely via Zoom, with a moderator guiding the participant and two observers noting task completion times, user behaviour, and body language. Each test session was allocated one hour, with half an hour dedicated to test tasks.
+  **- Test Tasks:** Participants were asked to search for courses, locate the application form, and complete the application process. Additionally, we assessed how easily users could find important information on the website. During the usability test, participants performed assigned tasks while thinking aloud. This helped reveal their thoughts during task execution. Participant backgrounds, satisfaction with the service, and user experience were assessed through interviews and questionnaires.
 
 The usability testing included five participants and utilised multiple methods such as task performance analysis, questionnaires, and semi-structured interviews. The results of the usability testing were documented in a test report, which included the success rates and task completion times, positive findings, descriptions of usability issues, and recommendations for further development.
