@@ -49,15 +49,15 @@ Findings from user research and the literature review highlight the importance o
 
 ### Design Concept
 Two main features of our concept:
-- 1. Cultural Theme based content
-- 2. Filtering out unwanted content using AI image detection to block undesirable content
+1. Cultural Theme based content
+2. Filtering out unwanted content using AI image detection to block undesirable content
 
 ### Design Process
-- **1. Cultural Personas and Moodboard:** Based on our research, we developed cultural personas to represent the distinct user groups from Pakistan and Finland. These personas guided our design decisions and were complemented by a moodboard that captured the visual and emotional tone of the project.
+**1. Cultural Personas and Moodboard:** Based on our research, we developed cultural personas to represent the distinct user groups from Pakistan and Finland. These personas guided our design decisions and were complemented by a moodboard that captured the visual and emotional tone of the project.
 
-- **2. Design Guidelines:** We established design guidelines that would help us address the cultural nuances identified during our research. These guidelines ensured that our design remained culturally sensitive and user-centered.
+**2. Design Guidelines:** We established design guidelines that would help us address the cultural nuances identified during our research. These guidelines ensured that our design remained culturally sensitive and user-centered.
 
-- **3. Concept Design and Low-Fidelity Prototype:** Leveraging the insights gathered, we re-designed Instagram to better address cultural differences and enhance the user experience. We developed low-fidelity prototypes to demonstrate the following key features:
+**3. Concept Design and Low-Fidelity Prototype:** Leveraging the insights gathered, we re-designed Instagram to better address cultural differences and enhance the user experience. We developed low-fidelity prototypes to demonstrate the following key features:
 
 - **Thematic Reels Categorization:**
 Reels are categorized into themes such as "Pakistan Culture," "Fashion," "Animals," and "Art." This allows users to explore content relevant to specific cultural themes.
