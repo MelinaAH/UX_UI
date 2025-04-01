@@ -1,11 +1,10 @@
 # UX/UI PROJECTS
 
-## CROSS-CULTURAL DESIGN: Researching Social media culture – Pakistan vs. Finland
-## UX/UI Project
+## CROSS-CULTURAL DESIGN – UX/UI Project: Researching Social media culture – Pakistan vs. Finland
 
-**Course:** Cross-Cultural Design, Tampere University
-**Team:** 5 members
-**Target Group:** Individuals from Pakistan and Finland 
+- **Course:** Cross-Cultural Design, Tampere University
+- **Team:** 5 members
+- **Target Group:** Individuals from Pakistan and Finland 
 
 ### Project Overview
 In the Cross-Cultural Design course at Tampere University, our 5-person team explored the social media cultures of Pakistan and Finland to examine how cultural differences impact social media usage. By comparing Pakistan’s collectivistic society with Finland’s individualistic culture, we aimed to understand how these cultural norms influence social media behavior, including content restrictions. Based on the study results, we designed improvements and new features for Instagram to better meet user needs and created low-fidelity prototypes.
@@ -50,26 +49,23 @@ Findings from user research and the literature review highlight the importance o
 
 ### Design Concept
 Two main features of our concept:
-1. Cultural Theme based content
-2. Filtering out unwanted content using AI image detection to block undesirable content
+- 1. Cultural Theme based content
+- 2. Filtering out unwanted content using AI image detection to block undesirable content
 
 ### Design Process
-- 1. Cultural Personas and Moodboard:
-Based on our research, we developed cultural personas to represent the distinct user groups from Pakistan and Finland. These personas guided our design decisions and were complemented by a moodboard that captured the visual and emotional tone of the project.
+- **1. Cultural Personas and Moodboard:** Based on our research, we developed cultural personas to represent the distinct user groups from Pakistan and Finland. These personas guided our design decisions and were complemented by a moodboard that captured the visual and emotional tone of the project.
 
-- 2. Design Guidelines:
-We established design guidelines that would help us address the cultural nuances identified during our research. These guidelines ensured that our design remained culturally sensitive and user-centered.
+- **2. Design Guidelines:** We established design guidelines that would help us address the cultural nuances identified during our research. These guidelines ensured that our design remained culturally sensitive and user-centered.
 
-- 3. Concept Design and Low-Fidelity Prototype:
-Leveraging the insights gathered, we re-designed Instagram to better address cultural differences and enhance the user experience. We developed low-fidelity prototypes to demonstrate the following key features:
+- **3. Concept Design and Low-Fidelity Prototype:** Leveraging the insights gathered, we re-designed Instagram to better address cultural differences and enhance the user experience. We developed low-fidelity prototypes to demonstrate the following key features:
 
-- Thematic Reels Categorization:
+- **Thematic Reels Categorization:**
 Reels are categorized into themes such as "Pakistan Culture," "Fashion," "Animals," and "Art." This allows users to explore content relevant to specific cultural themes.
 
-- Cultural Awareness Promotion:
+- **Cultural Awareness Promotion:**
 A feature promoting cultural awareness, where clicking on the "Pakistan Culture" theme opens Reels related to Pakistani culture. Users have the option to "Learn more about Pakistan culture," providing them with detailed information.
 
-- Content Restrictions:
+- **Content Restrictions:**
 Users can define restricted words, preventing others from tagging or mentioning them in content containing those specific terms, ensuring that cultural sensitivities are respected.
 
 ### Videos
@@ -78,8 +74,7 @@ Users can define restricted words, preventing others from tagging or mentioning 
 
 
 
-## HUMAN-CENTERED PRODUCT DEVELOPMENT: TimeWise – an AI calendar assistant
-## UX Project
+## HUMAN-CENTERED PRODUCT DEVELOPMENT – UX Project: TimeWise – an AI calendar assistant
 
 **Course:** Human-Centered Product Development, Tampere University
 **Team:** Diverse Canvas, 4 members
@@ -158,8 +153,7 @@ TimeWise Bracelet: An innovative wearable device designed to enhance productivit
 
 
 
-## USER EXPERIENCE: DESIGN AND EVALUATION: Sustainable Living in the Kitchen – Reducing Food Waste App
-## UX/UI and Experience-Driven Project
+## USER EXPERIENCE: DESIGN AND EVALUATION – UX/UI and Experience-Driven Project: Sustainable Living in the Kitchen – Reducing Food Waste App
 
 **Course:** User Experience: Design and Evaluation, Tampere University
 **Team:** MCKEasy, 3 members
@@ -201,7 +195,7 @@ The Reducing Food Waste App is designed to help users foster sustainable habits 
 Through interviews and surveys, we collected data on participants' living conditions, income, personal habits, and views on sustainability. Thematic analysis was used to identify key issues and concerns among potential users. Based on this analysis, we established Tentative Experience Goals, which were refined into Final Experience Goals as the project progressed. These goals guided the development of our prototype, ensuring that the design focused on providing a user-friendly interface that motivates users to improve their sustainability practices.
 
 ### Key Features
-- 1. **Sustainability Icon:** The home page features an icon that reflects the user’s current sustainability level through facial expressions. A smiling icon indicates high sustainability efforts, while a frowning icon suggests room for improvement. This visual feedback directly connects the user’s actions with their sustainability goals, providing motivation and a sense of achievement.
+- **1. Sustainability Icon:** The home page features an icon that reflects the user’s current sustainability level through facial expressions. A smiling icon indicates high sustainability efforts, while a frowning icon suggests room for improvement. This visual feedback directly connects the user’s actions with their sustainability goals, providing motivation and a sense of achievement.
 
 - **2. Sustainability Coach:** A dedicated "Sustainability Coach" page offers detailed feedback on the user’s sustainability practices. The coach provides tips, such as reminders to freeze leftovers or recycle packaging, helping users maintain and improve their sustainable habits.
 
