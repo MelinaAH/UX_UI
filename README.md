@@ -76,9 +76,9 @@ Users can define restricted words, preventing others from tagging or mentioning 
 
 ## HUMAN-CENTERED PRODUCT DEVELOPMENT – UX Project: TimeWise – an AI calendar assistant
 
-**Course:** Human-Centered Product Development, Tampere University
-**Team:** Diverse Canvas, 4 members
-**Client:** An innovative company based in Finland
+- **Course:** Human-Centered Product Development, Tampere University
+- **Team:** Diverse Canvas, 4 members
+- **Client:** An innovative company based in Finland
 
 ### Project Overview
 In this project, our team was supposed to envision a future solution for an existing user problem, need, desire, or challenge or to identify a completely new opportunity. The target market timeframe was 2030-2035, providing a unique opportunity to create a forward-looking solution. The project aimed to create a comprehensive scheduling assistant that helps users manage their commuting, grocery shopping, and other necessary weekly activities.
@@ -155,9 +155,9 @@ TimeWise Bracelet: An innovative wearable device designed to enhance productivit
 
 ## USER EXPERIENCE: DESIGN AND EVALUATION – UX/UI and Experience-Driven Project: Sustainable Living in the Kitchen – Reducing Food Waste App
 
-**Course:** User Experience: Design and Evaluation, Tampere University
-**Team:** MCKEasy, 3 members
-**Target Group:** Generation Z and Millennials in Finland interested in sustainability 
+- **Course:** User Experience: Design and Evaluation, Tampere University
+- **Team:** MCKEasy, 3 members
+- **Target Group:** Generation Z and Millennials in Finland interested in sustainability 
 
 ### Project Overview
 The Sustainable living in the kitchen project focuses on designing a mobile application that encourages users to adopt sustainable habits in their daily kitchen routines. The app aims to assist users in making more sustainable grocery purchases, reducing food waste, and promoting thoughtful food consumption.
@@ -195,13 +195,13 @@ The Reducing Food Waste App is designed to help users foster sustainable habits 
 Through interviews and surveys, we collected data on participants' living conditions, income, personal habits, and views on sustainability. Thematic analysis was used to identify key issues and concerns among potential users. Based on this analysis, we established Tentative Experience Goals, which were refined into Final Experience Goals as the project progressed. These goals guided the development of our prototype, ensuring that the design focused on providing a user-friendly interface that motivates users to improve their sustainability practices.
 
 ### Key Features
-- **1. Sustainability Icon:** The home page features an icon that reflects the user’s current sustainability level through facial expressions. A smiling icon indicates high sustainability efforts, while a frowning icon suggests room for improvement. This visual feedback directly connects the user’s actions with their sustainability goals, providing motivation and a sense of achievement.
+**1. Sustainability Icon:** The home page features an icon that reflects the user’s current sustainability level through facial expressions. A smiling icon indicates high sustainability efforts, while a frowning icon suggests room for improvement. This visual feedback directly connects the user’s actions with their sustainability goals, providing motivation and a sense of achievement.
 
-- **2. Sustainability Coach:** A dedicated "Sustainability Coach" page offers detailed feedback on the user’s sustainability practices. The coach provides tips, such as reminders to freeze leftovers or recycle packaging, helping users maintain and improve their sustainable habits.
+**2. Sustainability Coach:** A dedicated "Sustainability Coach" page offers detailed feedback on the user’s sustainability practices. The coach provides tips, such as reminders to freeze leftovers or recycle packaging, helping users maintain and improve their sustainable habits.
 
-- **3. Grocery Management:** Users can add groceries to their kitchen inventory by taking a photo, which the app recognizes using Optical Character Recognition (OCR) technology. The kitchen page categorizes groceries by location (fridge or cupboard) and provides details such as expiration dates, with warnings for items nearing expiration.
+**3. Grocery Management:** Users can add groceries to their kitchen inventory by taking a photo, which the app recognizes using Optical Character Recognition (OCR) technology. The kitchen page categorizes groceries by location (fridge or cupboard) and provides details such as expiration dates, with warnings for items nearing expiration.
 
-- **4. Progress Reporting:** The app features a progress reporting page where users can view statistics on their sustainability practices, including savings over specific timeframes. This page helps users track their improvements and reinforces positive behavior.
+**4. Progress Reporting:** The app features a progress reporting page where users can view statistics on their sustainability practices, including savings over specific timeframes. This page helps users track their improvements and reinforces positive behavior.
 
 ### Conclusion
 The Sustainable living in the kitchen project demonstrates a full user-centered design process, from research and experience goal setting to prototype design and evaluation. By focusing on the needs of environmentally conscious users, the app aims to make sustainable kitchen practices more accessible and engaging, ultimately contributing to a more sustainable lifestyle.
@@ -214,8 +214,7 @@ The Sustainable living in the kitchen project demonstrates a full user-centered 
 
 
 
-## METHODS IN HUMAN-CENTERED DESIGN: Research Study of DeMo
-## UX/UI Project
+## METHODS IN HUMAN-CENTERED DESIGN – UX/UI Project: Research Study of DeMo
 
 **Course:** Methods in Human-Centered Design, Tampere University
 **Team:** 5 persons
@@ -321,10 +320,10 @@ We began with a heuristic evaluation, identifying and classifying usability issu
 #### Heuristic Evaluation
 Our project began with a heuristic evaluation of the service pathway for applying to the Open University. We identified usability issues and classified them based on severity, using a scale from 1 to 4:
 
-- **1. Critical Issue:** Prevents the service from being used as intended.
-- **2. Major Usability Issue:** Significantly impairs the user experience.
-- **3. Minor Usability Issue:** Slightly impedes the service's usability.
-- **4. Cosmetic Issue:** Affects the visual polish without impacting functionality.
+**1. Critical Issue:** Prevents the service from being used as intended.
+**2. Major Usability Issue:** Significantly impairs the user experience.
+**3. Minor Usability Issue:** Slightly impedes the service's usability.
+**4. Cosmetic Issue:** Affects the visual polish without impacting functionality.
 
 In addition to usability issues, we also noted general comments, denoted by "C" for comments on successful features or suggestions, and "T" for technical issues related to implementation errors. The findings from the heuristic evaluation were compiled into a separate report.
 
