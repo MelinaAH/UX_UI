@@ -321,8 +321,11 @@ We began with a heuristic evaluation, identifying and classifying usability issu
 Our project began with a heuristic evaluation of the service pathway for applying to the Open University. We identified usability issues and classified them based on severity, using a scale from 1 to 4:
 
 **1. Critical Issue:** Prevents the service from being used as intended.
+
 **2. Major Usability Issue:** Significantly impairs the user experience.
+
 **3. Minor Usability Issue:** Slightly impedes the service's usability.
+
 **4. Cosmetic Issue:** Affects the visual polish without impacting functionality.
 
 In addition to usability issues, we also noted general comments, denoted by "C" for comments on successful features or suggestions, and "T" for technical issues related to implementation errors. The findings from the heuristic evaluation were compiled into a separate report.
